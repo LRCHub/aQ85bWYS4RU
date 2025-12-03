@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "最低",
+  "base_artist": "笹川真生",
+  "createdAt": "2025-12-03T06:04:46.245987Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "最低 (feat. 重音テト)",
+      "artist": "君嶋リョウ",
+      "has_synced": true,
+      "path": "select/01_最低_(feat._重音テト)_君嶋リョウ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "最低",
+      "artist": "れん",
+      "has_synced": true,
+      "path": "select/02_最低_れん.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "最低",
+      "artist": "笹川真生",
+      "has_synced": false,
+      "path": "select/pl_01_最低_笹川真生.txt"
+    }
+  ]
+}
